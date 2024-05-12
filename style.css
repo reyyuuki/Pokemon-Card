@@ -132,4 +132,10 @@ button:active {
         height:40%;
         width:100%;
     }
+     .img :nth-child(1){
+        transform: translateY(40px);
+    }
+    .Color{
+        top:-35%;
+    }
 }
